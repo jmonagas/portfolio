@@ -1,16 +1,16 @@
 {
   "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "material-icon-theme.activeIconPack": "vue",
   "material-icon-theme.folders.color": "#ffffff",
   "material-icon-theme.folders.theme": "classic",
   "material-icon-theme.showUpdateMessage": true,
   "editor.fontSize": 17,
-  "editor.tabSize": 1,
+  "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "notebook.cellToolbarLocation": "left",
   "MinifyAll.openMinifiedDocument": false,
   "MinifyAll.disableJavascriptReact": false,
-  "MinifyAll.disableHexadecimalShortener": false
+  "MinifyAll.disableHexadecimalShortener": false,
+  "editor.formatOnSave": true
 }
